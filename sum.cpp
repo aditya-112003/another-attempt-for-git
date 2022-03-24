@@ -5,6 +5,6 @@ int main (){
     int p=2;
     int q=3;
     int sum = p+q;
-    cout<<sum<<endl;
+    cout<<"xD "<<sum<<endl;
     return 0;
 }
